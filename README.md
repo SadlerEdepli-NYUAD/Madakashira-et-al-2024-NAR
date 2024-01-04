@@ -3,4 +3,5 @@ Code used for RNAseq analysis in manuscript and preprint on BioRx Madakashira BP
  https://www.biorxiv.org/content/biorxiv/early/2023/07/29/2023.06.26.545878.full.pdf
  #Figure 2 uses data from uhrf1-hi272 zebrafish mutant livers compared to phenotypically normal siblings at 120 hours post fertilization found in  the dataset in GSE160728
  #Figures 4, 5, S3 and S4 are based on data from uhrf1-hi272 zebrafish mutant livers compared to phenotypically normal siblings at 120 hours in the presence or absence of palbociclib in dataset GSE234993
+ #release v1.0: DOI: 10.5281/zenodo.10459748
  
